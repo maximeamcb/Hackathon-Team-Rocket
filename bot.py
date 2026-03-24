@@ -1,6 +1,6 @@
 import requests
 
-url = "https://sims.efrei.educentre.fr/api/v1/startups/a4f3bc06-9fbe-4599-80d3-9bbfa6bf7b2e/status"
+url = "https://sims.efrei.educentre.fr/api/v1/startups/<token>/status"
 
 headers = {
     "User-Agent": (
