@@ -1,0 +1,8 @@
+requests
+yfinance
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn[standard]
+joblib
